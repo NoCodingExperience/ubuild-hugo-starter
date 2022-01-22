@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: '2017-11-22T23:00:00.000+00:00'
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -76,5 +76,31 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world!
+navigation:
+- link_text: Om oss
+- link_text: Kontakt oss
 
 ---
+Navn
+
+Vi innehar godkjenning i klasse 2 etter Godkjenningsordningen for Kuldeentreprenører.  
+(tidligere TELFO (tidligere igjen TESO)).  
+Godkjenning nr.054 i sikkerhetsklasse 2.  
+  
+Vi innehar Autorisasjon nr.152 i kjølefaget av 22/10-1992.  
+  
+Vi har F-gass godkjenning både for alle montører og teknikkere og for Oslo Kjøleteknikk AS.
+
+​
+
+Om Gulbrandsens Kjøleverksted AS:
+
+  
+Navn: Gulbrandsens Kjøleverksted AS  
+Adresse: Brobekkveien 80, 0582 OSLO  
+Foretaksnr: NO 912 162 133 MVA  
+Stiftet: 1953  
+Avviklet: 2010  
+  
+Gulbrandsens Kjøleverksted AS gikk i 1997 sammen med Oslo Kjøleteknikk AS.  
+Selskapene ble drevet videre som 2 selskap, med Gulbrandsens Kjøleverksted som et datterselskap av Oslo Kjøleteknikk AS fram til 2010, da Gulbrandsens Kjøleveksted ble avviklet og resterende kunder overtatt av Oslo Kjøleteknikk as.
