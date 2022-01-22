@@ -10,17 +10,9 @@ fields:
 - type: file
   name: logo
   label: Logo
-- type: field_group_list
-  name: navigation
-  label: Navigation
-  fields:
-  - type: include
-    template: link
+- name: om_oss
+  type: text
   config:
-    labelField: link_text
-- type: field_group
-  name: cta
-  label: Call-to-action
-  fields:
-  - type: include
-    template: link
+    required: false
+  label: Om oss
+  description: Dette er en test
