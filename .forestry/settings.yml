@@ -4,15 +4,19 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Hjem
 - type: document
   path: README-FORESTRY.md
-  label: Help
+  label: Om oss
   read_only: true
 - type: directory
   path: content
-  label: Pages
+  label: Sider
   create: all
   match: "*"
+  templates:
+  - navigation-header-w-button
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
